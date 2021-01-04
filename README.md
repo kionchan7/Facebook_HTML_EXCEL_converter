@@ -2,8 +2,8 @@
 1. Expand comments and replies. Click all see more.
 2. Use this python file to convert html file into xlsx file. (here)
 
-Here's an example of how to use it:
-Place the html files in the same folder as converter.py\
+Here's an example of how to use it:\
+Place the html files in the same folder as converter.py
 * In Ubuntu: `python3 converter.py`
 
 After converting, the excel sheet will display in this format\
