@@ -17,3 +17,4 @@ Name(A2) Comment or Name (B2) @Name Comment or Comment (C2)\
 Upcoming updates:
 * The option of extracting names who have commented in a Facebook post (from an HTML file).
 * Commenting for this program
+* Fix `rm` error for B.txt and C.txt
